@@ -1,4 +1,4 @@
-module github.com/smartystreets/goconvey
+module github.com/mbsulliv/goconvey
 
 go 1.21.7
 
